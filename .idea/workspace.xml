@@ -9,10 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f9ab23b-2829-41b1-a4ef-fdef4b91f313" name="Changes" comment="Upload artifact">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5f9ab23b-2829-41b1-a4ef-fdef4b91f313" name="Changes" comment="Add manifest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Chidori_Normalizer_jar/Chidori-Normalizer.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Chidori_Normalizer_jar/CSV Normalizer.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Chidori_Normalizer_jar/CSV Normalizer.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,6 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,7 +32,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="28ZBj9jc0gpkqITfB6Q9pQJOw2M" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,6 +46,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -93,7 +95,7 @@
       <workItem from="1651414365103" duration="253000" />
       <workItem from="1651414781874" duration="6761000" />
       <workItem from="1651433676889" duration="1308000" />
-      <workItem from="1651602956946" duration="2376000" />
+      <workItem from="1651602956946" duration="3655000" />
     </task>
     <task id="LOCAL-00001" summary="Settings for local environment">
       <created>1651433922842</created>
@@ -109,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651448297238</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add manifest">
+      <created>1651613980549</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651613980549</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Settings for local environment" />
     <MESSAGE value="Upload artifact" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload artifact" />
+    <MESSAGE value="Add manifest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add manifest" />
   </component>
 </project>
