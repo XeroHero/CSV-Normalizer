@@ -24,3 +24,12 @@ jobs:
         cache: maven
     - name: Build with Maven
       run: mvn -B package --file pom.xml
+    - name: Create staging directory and copy artifacts to it temporarily
+      run: mkdir staging && cp target/*.jar staging
+    - name: Persist workflow as Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: github-actions-artifact
+        path: staging
+        
+       
